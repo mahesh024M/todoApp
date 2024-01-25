@@ -2,7 +2,7 @@ const mongoose=require('mongoose');
 
 
 //mongodb://localhost:27017
-mongoose.connect("mongodb+srv://mahesh:mahesh123@cluster0.d9bwgju.mongodb.net/");
+
 
 const todoSchema=new mongoose.Schema({
       
